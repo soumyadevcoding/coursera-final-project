@@ -1,1 +1,2 @@
-bug-fix-typo
+fixed small typo
+
