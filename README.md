@@ -1,1 +1,1 @@
-small type fix
+fixed small typo
