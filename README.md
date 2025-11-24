@@ -1,2 +1,2 @@
-fixed small typo
+fixed-small-typo
 
